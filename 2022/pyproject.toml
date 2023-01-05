@@ -1,0 +1,7 @@
+[tool.black]
+verbose = true
+
+[tool.isort]
+line_length = 100
+profile = "black"
+skip = [".git"]
