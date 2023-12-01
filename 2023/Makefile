@@ -1,0 +1,5 @@
+style:
+	isort .
+	black .
+	ruff .
+
